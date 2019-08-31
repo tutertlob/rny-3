@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Ping Home/Base.lproj/Main.storyboard" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="0Vj-UH-h0y.headerTitle">
+        <source>センサー情報</source>
+        <target>センサー情報</target>
+        <note>Class = "UITableViewSection"; headerTitle = "センサー情報"; ObjectID = "0Vj-UH-h0y";</note>
+      </trans-unit>
+      <trans-unit id="2OU-io-r0I.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "2OU-io-r0I";</note>
+      </trans-unit>
+      <trans-unit id="Mc9-7l-HAA.text">
+        <source>BDアドレス</source>
+        <target>BDアドレス</target>
+        <note>Class = "UILabel"; text = "BDアドレス"; ObjectID = "Mc9-7l-HAA";</note>
+      </trans-unit>
+      <trans-unit id="TB2-2E-e0e.text">
+        <source>rny-3</source>
+        <target>rny-3</target>
+        <note>Class = "UILabel"; text = "rny-3"; ObjectID = "TB2-2E-e0e";</note>
+      </trans-unit>
+      <trans-unit id="V0h-4m-K7n.headerTitle">
+        <source>ニックネーム・閾値</source>
+        <target>ニックネーム・閾値</target>
+        <note>Class = "UITableViewSection"; headerTitle = "ニックネーム・閾値"; ObjectID = "V0h-4m-K7n";</note>
+      </trans-unit>
+      <trans-unit id="a6H-UH-Vgm.text">
+        <source>モデル名</source>
+        <target>モデル名</target>
+        <note>Class = "UILabel"; text = "モデル名"; ObjectID = "a6H-UH-Vgm";</note>
+      </trans-unit>
+      <trans-unit id="cQQ-CG-wa5.title">
+        <source>センサー</source>
+        <target>センサー</target>
+        <note>Class = "UITabBarItem"; title = "センサー"; ObjectID = "cQQ-CG-wa5";</note>
+      </trans-unit>
+      <trans-unit id="g7y-Lc-Oiw.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "g7y-Lc-Oiw";</note>
+      </trans-unit>
+      <trans-unit id="jBg-gY-dl9.text">
+        <source>11:22:33:44:55:66</source>
+        <target>11:22:33:44:55:66</target>
+        <note>Class = "UILabel"; text = "11:22:33:44:55:66"; ObjectID = "jBg-gY-dl9";</note>
+      </trans-unit>
+      <trans-unit id="l86-eQ-Uba.text">
+        <source>Detail</source>
+        <target>Detail</target>
+        <note>Class = "UILabel"; text = "Detail"; ObjectID = "l86-eQ-Uba";</note>
+      </trans-unit>
+      <trans-unit id="nRj-6p-oFk.text">
+        <source>閾値</source>
+        <target>閾値</target>
+        <note>Class = "UILabel"; text = "閾値"; ObjectID = "nRj-6p-oFk";</note>
+      </trans-unit>
+      <trans-unit id="pMn-2x-Vew.text">
+        <source>ニックネーム</source>
+        <target>ニックネーム</target>
+        <note>Class = "UILabel"; text = "ニックネーム"; ObjectID = "pMn-2x-Vew";</note>
+      </trans-unit>
+      <trans-unit id="x2f-9q-dpX.text">
+        <source>接続</source>
+        <target>接続</target>
+        <note>Class = "UILabel"; text = "接続"; ObjectID = "x2f-9q-dpX";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Ping Home/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.3" build-num="10G8"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>Ping Home</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

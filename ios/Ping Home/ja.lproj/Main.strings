@@ -1,0 +1,39 @@
+/* Class = "UITableViewSection"; headerTitle = "センサー情報"; ObjectID = "0Vj-UH-h0y"; */
+"0Vj-UH-h0y.headerTitle" = "センサー情報";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "2OU-io-r0I"; */
+"2OU-io-r0I.text" = "Title";
+
+/* Class = "UILabel"; text = "モデル名"; ObjectID = "a6H-UH-Vgm"; */
+"a6H-UH-Vgm.text" = "モデル名";
+
+/* Class = "UITabBarItem"; title = "センサー"; ObjectID = "cQQ-CG-wa5"; */
+"cQQ-CG-wa5.title" = "センサー";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "g7y-Lc-Oiw"; */
+"g7y-Lc-Oiw.text" = "0";
+
+/* Class = "UILabel"; text = "11:22:33:44:55:66"; ObjectID = "jBg-gY-dl9"; */
+"jBg-gY-dl9.text" = "11:22:33:44:55:66";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "l86-eQ-Uba"; */
+"l86-eQ-Uba.text" = "Detail";
+
+/* Class = "UILabel"; text = "BDアドレス"; ObjectID = "Mc9-7l-HAA"; */
+"Mc9-7l-HAA.text" = "BDアドレス";
+
+/* Class = "UILabel"; text = "閾値"; ObjectID = "nRj-6p-oFk"; */
+"nRj-6p-oFk.text" = "閾値";
+
+/* Class = "UILabel"; text = "ニックネーム"; ObjectID = "pMn-2x-Vew"; */
+"pMn-2x-Vew.text" = "ニックネーム";
+
+/* Class = "UILabel"; text = "rny-3"; ObjectID = "TB2-2E-e0e"; */
+"TB2-2E-e0e.text" = "rny-3";
+
+/* Class = "UITableViewSection"; headerTitle = "ニックネーム・閾値"; ObjectID = "V0h-4m-K7n"; */
+"V0h-4m-K7n.headerTitle" = "ニックネーム・閾値";
+
+/* Class = "UILabel"; text = "接続"; ObjectID = "x2f-9q-dpX"; */
+"x2f-9q-dpX.text" = "接続";
+
